@@ -1,0 +1,7 @@
+{
+  "name": "Nutri Sincero AI",
+  "description": "Uma IA direta e sem rodeios que analisa rótulos de alimentos para revelar a verdade nutricional.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
